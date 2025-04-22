@@ -21,7 +21,7 @@ from langchain_community.utilities import SQLDatabase
 load_dotenv()
 llm = ChatAnthropic(
     model_name="claude-3-5-sonnet-20241022",
-    api_key=os.getenv("API_KEY")
+    api_key=api_key
 )
 
 # Connect to database
