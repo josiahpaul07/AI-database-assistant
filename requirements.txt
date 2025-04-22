@@ -1,0 +1,15 @@
+streamlit
+io
+base64
+json
+pyttsx3
+fpdf
+pandas
+seaborn
+matplotlib
+tempfile
+sqlalchemy
+langchain-core
+langchain-community
+langchain-anthropic
+langchain
