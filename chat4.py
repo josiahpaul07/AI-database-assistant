@@ -17,6 +17,8 @@ from langchain_anthropic import ChatAnthropic
 from langchain_core.runnables import RunnablePassthrough
 from langchain_community.utilities import SQLDatabase
 
+api_key= st.secrets["api"]["key"]
+
 # Load environment and API key
 load_dotenv()
 llm = ChatAnthropic(
