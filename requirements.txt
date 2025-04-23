@@ -1,5 +1,4 @@
 streamlit
-json
 pyttsx3
 fpdf
 pandas
