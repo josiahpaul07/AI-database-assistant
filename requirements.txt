@@ -4,7 +4,6 @@ fpdf
 pandas
 seaborn
 matplotlib
-tempfile
 sqlalchemy
 langchain-core
 langchain-community
