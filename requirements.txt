@@ -1,5 +1,4 @@
 streamlit
-io
 base64
 json
 pyttsx3
